@@ -1,0 +1,7 @@
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+__pycache__/
+.venv/
+*.log
