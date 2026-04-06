@@ -3,7 +3,6 @@
 
 > **Problématique :** Comment la criminalité à Los Angeles évolue-t-elle entre 2020 et 2024 selon le temps et la zone géographique, et comment cette évolution peut-elle être interprétée à la lumière de la population et du taux de chômage ?
 
-📹 **Vidéo de démonstration (10 min) :** [YouTube ](https://youtu.be/8r5c-E52YT4)
 
 ---
 
